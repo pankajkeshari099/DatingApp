@@ -2968,11 +2968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\panka\\OneDrive\\Desktop\\DatingAp\\server\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\panka\\OneDrive\\Desktop\\AnularDotnet Project\\DatingApp\\server\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\panka\\OneDrive\\Desktop\\DatingAp\\server\\API\\API.csproj",
+      "projectPath": "C:\\Users\\panka\\OneDrive\\Desktop\\AnularDotnet Project\\DatingApp\\server\\API\\API.csproj",
       "packagesPath": "C:\\Users\\panka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\panka\\OneDrive\\Desktop\\DatingAp\\server\\API\\obj\\",
+      "outputPath": "C:\\Users\\panka\\OneDrive\\Desktop\\AnularDotnet Project\\DatingApp\\server\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\panka\\AppData\\Roaming\\NuGet\\NuGet.Config"
