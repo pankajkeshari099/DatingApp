@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { RouterLink } from '@angular/router';
+import { ActivatedRoute, RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-login',
@@ -8,5 +8,17 @@ import { RouterLink } from '@angular/router';
   styleUrl: './login.component.css'
 })
 export class LoginComponent {
-
+  constructor(private route: ActivatedRoute){}
+  ngOnInit()
+  {
+    // let name = this.route.snapshot.paramMap.get('name');
+    // this.route.queryParams.subscribe(param=>{
+      //   let name = param['name'];
+      //   alert(name); 
+      // })
+      // alert(name);
+      // this.route.data.subscribe(data=>{
+      //   console.log(data['name']);
+      // })
+  }
 }
