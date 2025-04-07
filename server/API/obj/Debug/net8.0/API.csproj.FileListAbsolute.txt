@@ -125,13 +125,26 @@ C:\Users\panka\OneDrive\Desktop\Dotnet\server\API\bin\Debug\net8.0\runtimes\win-
 C:\Users\panka\OneDrive\Desktop\Dotnet\server\API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\panka\OneDrive\Desktop\Dotnet\server\API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\panka\OneDrive\Desktop\Dotnet\server\API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.exe
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\appsettings.json
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.staticwebassets.endpoints.json
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.exe
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.deps.json
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.runtimeconfig.json
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\API.pdb
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Humanizer.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -139,21 +152,9 @@ C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\De
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\SQLitePCLRaw.core.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -230,7 +231,6 @@ C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\De
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
 C:\Users\panka\OneDrive\Desktop\AnularDotnet Project\DatingApp\server\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig

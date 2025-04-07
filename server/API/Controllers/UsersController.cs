@@ -56,5 +56,15 @@ namespace API.Controllers
             await context.SaveChangesAsync();
             return Ok("Recorded Deleted Successfully");
         }
+        [HttpGet("Search")]
+        public async Task<ActionResult<IEnumerable<AppUser>>> GetSearchedUser(string name, string email)
+        {
+            var users = await context.Users.Where(u=>u.Username.ToLower() == name.ToLower() || u.Email.ToLower() == email.ToLower()).ToListAsync();
+            if(users == null)
+            {
+                return NotFound("User Not found");
+            }
+            return users;
+        }   
     }
 }
