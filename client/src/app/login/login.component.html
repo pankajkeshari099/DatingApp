@@ -1,16 +1,23 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-6 py-5">
-            <h2 class="text-center">Login</h2>
-            <div class="form-group">
-                <label for="email">Email</label>
-                <input type="text" id="email" class="form-control">
-            </div>
-            <div class="form-group">
-                <label for="password">Password</label>
-                <input type="password" id="password" class="form-control">
-            </div>
-            <button class="btn btn-primary">Login</button>
+            <form [formGroup]="formData" (ngSubmit)="submitForm()">
+                <h2 class="text-center">Login</h2>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="text" id="email" class="form-control" formControlName="email">
+                    <span *ngIf="email?.hasError('required')">*</span>
+                    <span *ngIf="email?.invalid && (email?.dirty || email?.touched)">Please Enter a valid Email</span>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" class="form-control" formControlName="password">
+                </div>
+                <button class="btn btn-primary" type="submit">Login</button>
+                <br>
+                <br>
+                <!-- <button class="btn btn-primary" type="button" (click)="setValues()">Set Value</button> -->
+            </form>
             <div class="mt-2">
                 Don't have an account? <a routerLink="registration">Registration</a>
             </div>
